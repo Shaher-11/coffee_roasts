@@ -17,7 +17,7 @@ Things you may want to cover:
 
 * How to run the test suite
 
-* Services (job queues, cache servers, seareng, etc.)
+* Services (job queues, cache servers, seare, etc.)
 
 * Deployment instructions
 
